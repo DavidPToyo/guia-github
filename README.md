@@ -1,2 +1,7 @@
 # guia-github
-practica github
+
+
+
+# Encabezado grande
+## Encabezado mediano
+### Encabezado siguiente
